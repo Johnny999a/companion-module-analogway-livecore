@@ -155,7 +155,7 @@ class LiveCore extends InstanceBase {
 					this.modelname = 'Ascender 16 - 4K'
 					break
 				case 114:
-					this.modelname = 'Ascender 48 - 4K - PL'
+					this.modelname = 'Ascender 48 - 4K - PL JKSoft'
 					break
 				case 115:
 					this.modelname = 'Output Expander 48 - 4K  - PL'
